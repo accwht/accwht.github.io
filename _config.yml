@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haotian Wang"
-description              : "Haotian Wang, National University of Defense Technology. Research interests: causal inference and strategic learning."
+description              : "Assistant Professor, College of Computer, National University of Defense Technology"
 url                      : "https://accwht.github.io"
 baseurl                  : ""
 repository               : "accwht/accwht.github.io"
@@ -39,7 +39,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "accwht"
+  github           : # "accwht"
   google_plus      :
   keybase          :
   instagram        :
