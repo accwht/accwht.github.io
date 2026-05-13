@@ -25,12 +25,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haotian Wang"
   avatar           : "images/google_scholar_photo.jpg"
-  bio              : "National University of Defense Technology"
+  bio              : # "National University of Defense Technology"
   location         :
-  employer         : "National University of Defense Technology"
+  employer         : # "National University of Defense Technology"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=CbH1UJAAAAAJ&hl=en"
-  email            :
+  email            : "wanghaotian13@nudt.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
