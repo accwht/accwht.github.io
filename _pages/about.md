@@ -40,33 +40,35 @@ My Google Scholar profile is available [here](https://scholar.google.com/citatio
 
 ### Causal Inference
 
+- [Unveiling Prior-data Fitted Networks on Causal Effect Estimation: Pre-training or Finetuning?](Coming)<br>
+  **H Wang**, X Lv, H Zou, Y Xiao, S Gu, Y Shi, Y Mao, Y Zhang, M Geng, S Yang, H Li, W Yang, P Cui, Z Lin. *International Conference on Machine Learning, CCF-A*, 2026. <span class='show_paper_citations'>| Citations: 0</span>
 
 - [Transformers with Endogenous In-Context Learning: Bias Characterization and Mitigation](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:g5m5HwL7SMYC)<br>
-  **H Wang**, H Li, H Zou, H Chi, Y Shi, Y Zhang, W Yang, X Liu, Z Lin. *The Fourteenth International Conference on Learning Representations*, 2026. <span class='show_paper_citations' data='CbH1UJAAAAAJ:g5m5HwL7SMYC'>| Citations: 0</span>
+  **H Wang**, H Li, H Zou, H Chi, Y Shi, Y Zhang, W Yang, X Liu, Z Lin. *The Fourteenth International Conference on Learning Representations, CCF-A*, 2026. <span class='show_paper_citations' data='CbH1UJAAAAAJ:g5m5HwL7SMYC'>| Citations: 0</span>
 
 - [Effective and efficient time-varying counterfactual prediction with state-space models](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:hFOr9nPyWt4C)<br>
-  **H Wang**, H Li, H Zou, H Chi, L Lan, W Huang, W Yang. *The Thirteenth International Conference on Learning Representations*, 2025. <span class='show_paper_citations' data='CbH1UJAAAAAJ:hFOr9nPyWt4C'>| Citations: 13</span>
+  **H Wang**, H Li, H Zou, H Chi, L Lan, W Huang, W Yang. *The Thirteenth International Conference on Learning Representations, CCF-A*, 2025. <span class='show_paper_citations' data='CbH1UJAAAAAJ:hFOr9nPyWt4C'>| Citations: 13</span>
 
 - [Out-of-distribution generalization with causal feature separation](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:KlAtU1dfN6UC)<br>
   **H Wang**, K Kuang, L Lan, Z Wang, W Huang, F Wu, W Yang. *IEEE Transactions on Knowledge and Data Engineering, CCF-A*, 2023. <span class='show_paper_citations' data='CbH1UJAAAAAJ:KlAtU1dfN6UC'>| Citations: 39</span>
 
 - [Estimating individualized causal effect with confounded instruments](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:zYLM7Y9cAGgC)<br>
-  **H Wang**, W Yang, L Yang, A Wu, L Xu, J Ren, F Wu, K Kuang. *KDD (ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A)*, 2022. <span class='show_paper_citations' data='CbH1UJAAAAAJ:zYLM7Y9cAGgC'>| Citations: 35</span>
+  **H Wang**, W Yang, L Yang, A Wu, L Xu, J Ren, F Wu, K Kuang. *ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A*, 2022. <span class='show_paper_citations' data='CbH1UJAAAAAJ:zYLM7Y9cAGgC'>| Citations: 35</span>
 
 - [Learning Feasible Causal Algorithmic Recourse without Prior Structure](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:-f6ydRqryjwC)<br>
   **H Wang**, H Zou, X Zhou, S Wang, L Lan, W Yang, P Cui. *IEEE International Conference on Data Mining Workshops (ICDMW) CRL Workshop Best Paper, 805-813*, 2024. <span class='show_paper_citations' data='CbH1UJAAAAAJ:-f6ydRqryjwC'>| Citations: 1</span>
 
 - [Treatment effect estimation with adjustment feature selection](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:kNdYIx-mwKoC)<br>
-  **H Wang**, K Kuang, H Chi, L Yang, M Geng, W Huang, W Yang. *KDD (ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A)*, 2023. <span class='show_paper_citations' data='CbH1UJAAAAAJ:kNdYIx-mwKoC'>| Citations: 27</span>
+  **H Wang**, K Kuang, H Chi, L Yang, M Geng, W Huang, W Yang. *ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A*, 2023. <span class='show_paper_citations' data='CbH1UJAAAAAJ:kNdYIx-mwKoC'>| Citations: 27</span>
 
 - [Estimating treatment effect across heterogeneous data sources: An instrumental variable approach](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:dhFuZR0502QC)<br>
-  **H Wang**, H Li, W Yang, H Zou, W Huang, K Kuang. *NeurIPS (Conference on Neural Information Processing Systems, CCF-A)*, 2024. <span class='show_paper_citations' data='CbH1UJAAAAAJ:dhFuZR0502QC'>| Citations: 1</span>
+  **H Wang**, H Li, W Yang, H Zou, W Huang, K Kuang. *Conference on Neural Information Processing Systems, CCF-A*, 2024. <span class='show_paper_citations' data='CbH1UJAAAAAJ:dhFuZR0502QC'>| Citations: 1</span>
 
 - [Learning Feasible Causal Algorithmic Recourse: A Prior Structural Knowledge Free Approach](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:7PzlFSSx8tAC)<br>
   **H Wang**, H Zou, X Zhou, S Wang, W Yang, P Cui. *Proceedings of the ACM on Web Conference , 4507-4518*, 2025. <span class='show_paper_citations' data='CbH1UJAAAAAJ:7PzlFSSx8tAC'>| Citations: 2</span>
 
 - [Detecting Unobserved Confounders: A Kernelized Regression Approach](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:3s1wT3WcHBgC)<br>
-  Y Chen, Y Mao, C Zheng, H Zou, S Gu, S Liu, Y Shi, W Yang, K Kuang, .... *AAAI (AAAI Conference on Artificial Intelligence, CCF-A)*, 2026. <span class='show_paper_citations' data='CbH1UJAAAAAJ:3s1wT3WcHBgC'>| Citations: 0</span>
+  Y Chen, Y Mao, C Zheng, H Zou, S Gu, S Liu, Y Shi, W Yang, K Kuang, **H Wang**. *AAAI Conference on Artificial Intelligence, CCF-A*, 2026. <span class='show_paper_citations' data='CbH1UJAAAAAJ:3s1wT3WcHBgC'>| Citations: 0</span>
 
 - [Pairwise similarity regularization for adversarial domain adaptation](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:UeHWp8X0CEIC)<br>
   **H Wang**, W Yang, J Wang, R Wang, L Lan, M Geng. *Proceedings of the 28th ACM International Conference on Multimedia, 2409-2418*, 2020. <span class='show_paper_citations' data='CbH1UJAAAAAJ:UeHWp8X0CEIC'>| Citations: 13</span>
@@ -75,30 +77,22 @@ My Google Scholar profile is available [here](https://scholar.google.com/citatio
   H Zou, **H Wang**, R Xu, B Li, J Pei, YJ Jian, P Cui. *Conference on Causal Learning and Reasoning, Causal Top Conference*, 2023. <span class='show_paper_citations' data='CbH1UJAAAAAJ:UebtZRa9Y70C'>| Citations: 12</span>
 
 - [Your neighbor matters: Towards fair decisions under networked interference](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:Wp0gIr-vW9MC)<br>
-  W Yang, **H Wang**, H Li, H Zou, R Jin, K Kuang, P Cui. *KDD (ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A)*, 2024. <span class='show_paper_citations' data='CbH1UJAAAAAJ:Wp0gIr-vW9MC'>| Citations: 9</span>
+  W Yang, **H Wang**, H Li, H Zou, R Jin, K Kuang, P Cui. *ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A*, 2024. <span class='show_paper_citations' data='CbH1UJAAAAAJ:Wp0gIr-vW9MC'>| Citations: 9</span>
 
 - [Stable prediction with leveraging seed variable](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:WF5omc3nYNoC)<br>
-  K Kuang, **H Wang**, Y Liu, R Xiong, R Wu, W Lu, Y Zhuang, F Wu, P Cui, .... *IEEE Transactions on Knowledge and Data Engineering 35 (6), 6392-6404*, 2022. <span class='show_paper_citations' data='CbH1UJAAAAAJ:WF5omc3nYNoC'>| Citations: 16</span>
+  K Kuang, **H Wang**, Y Liu, R Xiong, R Wu, W Lu, Y Zhuang, F Wu, P Cui, B Li. *IEEE Transactions on Knowledge and Data Engineering, CCF-A*, 2022. <span class='show_paper_citations' data='CbH1UJAAAAAJ:WF5omc3nYNoC'>| Citations: 16</span>
 
 - [PDMC: Generating Feasible Algorithmic Recourse via Perturbation Data Manifold Constraint](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:_Qo2XoVZTnwC)<br>
-  Z Wang, H Zou, H Yu, S Fan, **H Wang**, Y He, P Cui. *KDD (ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A)*, 2025. <span class='show_paper_citations' data='CbH1UJAAAAAJ:_Qo2XoVZTnwC'>| Citations: 1</span>
+  Z Wang, H Zou, H Yu, S Fan, **H Wang**, Y He, P Cui. *ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A*, 2025. <span class='show_paper_citations' data='CbH1UJAAAAAJ:_Qo2XoVZTnwC'>| Citations: 1</span>
 
 - [Automated Exposure Mapping for Networked Interference](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:hC7cP41nSMkC)<br>
-  Y Mao, **H Wang**, Y Cai, M Li, J Wang, W Yang. *ICASSP (IEEE International Conference on Acoustics, Speech and Signal Processing, CCF-B)*, 2025. <span class='show_paper_citations' data='CbH1UJAAAAAJ:hC7cP41nSMkC'>| Citations: 1</span>
+  Y Mao, **H Wang**, Y Cai, M Li, J Wang, W Yang. *IEEE International Conference on Acoustics, Speech and Signal Processing, CCF-B*, 2025. <span class='show_paper_citations' data='CbH1UJAAAAAJ:hC7cP41nSMkC'>| Citations: 1</span>
 
 - [Modality re-balance for visual question answering: A causal framework](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:_kc_bZDykSQC)<br>
-  X Lv, W Huang, **H Wang**, R Jin, X Li, Z Lin, S Li, Y Feng, Y Tang. *ICASSP (IEEE International Conference on Acoustics, Speech and Signal Processing, CCF-B)*, 2024. <span class='show_paper_citations' data='CbH1UJAAAAAJ:_kc_bZDykSQC'>| Citations: 2</span>
+  X Lv, W Huang, **H Wang**, R Jin, X Li, Z Lin, S Li, Y Feng, Y Tang. *IEEE International Conference on Acoustics, Speech and Signal Processing, CCF-B*, 2024. <span class='show_paper_citations' data='CbH1UJAAAAAJ:_kc_bZDykSQC'>| Citations: 2</span>
 
 
 
-
-- [Unveiling Prior-data Fitted Networks on Causal Effect Estimation: Pre-training or Finetuning?](#)<br>
-  **H Wang**, X Lv, H Zou, Y Xiao, S Gu, Y Shi, Y Mao, Y Zhang, M Geng, S Yang, H Li, W Yang, P Cui, Z Lin. *ICML (International Conference on Machine Learning, CCF-A)*, 2026. <span class='show_paper_citations'>| Citations: 0</span>
-
-
-
-
-  
 ### Strategic Agents
 
 - [Competing for shareable arms in multi-player multi-armed bandits](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:ULOm3_A8WrAC)<br>
