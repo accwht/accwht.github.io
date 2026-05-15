@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Haotian Wang"
+excerpt: "Homepage of Haotian Wang. Research interests include causal inference, strategic learning, counterfactual prediction, algorithmic recourse, and robust machine learning."
 author_profile: true
 redirect_from:
   - /about/
