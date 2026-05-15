@@ -207,7 +207,7 @@ My Google Scholar profile is available [here](https://scholar.google.com/citatio
 - [An effective few-shot learning approach via location-dependent partial differential equation](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:YsMSGLbcyi4C)<br>
   **H Wang**, Z Zhao, Y Tang. *Knowledge and Information Systems 62 (5), 1881-1901*, 2020. <span class='show_paper_citations' data='CbH1UJAAAAAJ:YsMSGLbcyi4C'>| Citations: 6</span>
 
-<span class='anchor' id='Enterprise'></span>
+<span class='anchor' id='enterprise'></span>
 
 # Enterprise
 
