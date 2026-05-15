@@ -168,41 +168,41 @@ My Google Scholar profile is available [here](https://scholar.google.com/citatio
   S Li, Z Lin, **H Wang**, W Yang, H Liu. *IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP, CCF-B*, 2025, corresponding author. <span class='show_paper_citations' data='CbH1UJAAAAAJ:mB3voiENLucC'>| Citations: 0</span>
 
 - [Make Model Transparent: Brain Network Analysis via Causal and Knowledge Graph Learning](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:ZHo1McVdvXMC)<br>
-  L Meng, K Liang, H Yu, **H Wang**, M Li, X Liu. *AAAI (AAAI Conference on Artificial Intelligence, CCF-A)*, 2026. <span class='show_paper_citations' data='CbH1UJAAAAAJ:ZHo1McVdvXMC'>| Citations: 0</span>
+  L Meng, K Liang, H Yu, **H Wang**, M Li, X Liu. *AAAI Conference on Artificial Intelligence, AAAI, CCF-A*, 2026. <span class='show_paper_citations' data='CbH1UJAAAAAJ:ZHo1McVdvXMC'>| Citations: 0</span>
 
 - [Invariant Learning on Heterogeneous Graphs via Subgraph Environment Inference](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:zA6iFVUQeVQC)<br>
-  Y Fu, Y Wang, H Zou, Y He, **H Wang**, Q Cheng, G Cheng, S Liu. *Proceedings of the ACM Web Conference , 968-979*, 2026. <span class='show_paper_citations' data='CbH1UJAAAAAJ:zA6iFVUQeVQC'>| Citations: 0</span>
+  Y Fu, Y Wang, H Zou, Y He, **H Wang**, Q Cheng, G Cheng, S Liu. *Proceedings of the ACM Web Conference , WWW, 968-979*, 2026. <span class='show_paper_citations' data='CbH1UJAAAAAJ:zA6iFVUQeVQC'>| Citations: 0</span>
 
 - [FD-TE Diagnosis: Enhancing Microservice Fault Diagnosis With Frequency Domain Features and Centrality-Aware Time Encoding](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:u_35RYKgDlwC)<br>
-  M Liu, Y Li, **H Wang**, M Li, F Tang, W Yang. *IEEE Transactions on Reliability 75, 1483-1495*, 2026. <span class='show_paper_citations' data='CbH1UJAAAAAJ:u_35RYKgDlwC'>| Citations: 0</span>
+  M Liu, Y Li, **H Wang**, M Li, F Tang, W Yang. *IEEE Transactions on Reliability*, 2026. <span class='show_paper_citations' data='CbH1UJAAAAAJ:u_35RYKgDlwC'>| Citations: 0</span>
 
 - [Width-Enhanced Fine-Tuning for Long-Tailed Learning](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:dfsIfKJdRG4C)<br>
-  Y Liu, **H Wang**, Y Zhang, X Li, S Yang. *ICASSP (IEEE International Conference on Acoustics, Speech and Signal Processing, CCF-B)*, 2026. <span class='show_paper_citations' data='CbH1UJAAAAAJ:dfsIfKJdRG4C'>| Citations: 0</span>
+  Y Liu, **H Wang**, Y Zhang, X Li, S Yang. *IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP, CCF-B*, 2026. <span class='show_paper_citations' data='CbH1UJAAAAAJ:dfsIfKJdRG4C'>| Citations: 0</span>
 
 - [Causal Effect Estimation under Network Interference with State Space Models](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:4OULZ7Gr8RgC)<br>
-  Y Mao, Y Cai, Z Li, **H Wang**, M Li, W Yang, J Wang. *ICASSP (IEEE International Conference on Acoustics, Speech and Signal Processing, CCF-B)*, 2026. <span class='show_paper_citations' data='CbH1UJAAAAAJ:4OULZ7Gr8RgC'>| Citations: 0</span>
+  Y Mao, Y Cai, Z Li, **H Wang**, M Li, W Yang, J Wang. *IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP, CCF-B*, 2026. <span class='show_paper_citations' data='CbH1UJAAAAAJ:4OULZ7Gr8RgC'>| Citations: 0</span>
 
   
 - [Rademacher dropout: An adaptive dropout for deep neural network via optimizing generalization gap](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:IjCSPb-OGe4C)<br>
   **H Wang**, W Yang, Z Zhao, T Luo, J Wang, Y Tang. *Neurocomputing 357, 177-187*, 2019. <span class='show_paper_citations' data='CbH1UJAAAAAJ:IjCSPb-OGe4C'>| Citations: 34</span>
 
 - [TMDA: Task-specific multi-source domain adaptation via clustering embedded adversarial training](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:Tyk-4Ss8FVUC)<br>
-  **H Wang**, W Yang, Z Lin, Y Yu. *IEEE International Conference on Data Mining (ICDM), 1372-1377*, 2019. <span class='show_paper_citations' data='CbH1UJAAAAAJ:Tyk-4Ss8FVUC'>| Citations: 32</span>
+  **H Wang**, W Yang, Z Lin, Y Yu. *IEEE International Conference on Data Mining, ICDM, CCF-B*, 2019. <span class='show_paper_citations' data='CbH1UJAAAAAJ:Tyk-4Ss8FVUC'>| Citations: 32</span>
 
 - [Unbiased recommender learning from implicit feedback via weakly supervised learning](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:R3hNpaxXUhUC)<br>
-  **H Wang**, Z Chen, **H Wang**, Y Tan, L Pan, T Liu, X Chen, H Li, Z Lin. *Forty-second International Conference on Machine Learning*, 2025. <span class='show_paper_citations' data='CbH1UJAAAAAJ:R3hNpaxXUhUC'>| Citations: 13</span>
+  H Wang, Z Chen, **H Wang**, Y Tan, L Pan, T Liu, X Chen, H Li, Z Lin. *Forty-second International Conference on Machine Learning, ICML, CCF-A*, 2025. <span class='show_paper_citations' data='CbH1UJAAAAAJ:R3hNpaxXUhUC'>| Citations: 13</span>
 
 - [Scaling few-shot learning for the open world](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:4TOpqqG69KYC)<br>
-  Z Lin, W Yang, **H Wang**, H Chi, L Lan, J Wang. *AAAI (AAAI Conference on Artificial Intelligence, CCF-A)*, 2024. <span class='show_paper_citations' data='CbH1UJAAAAAJ:4TOpqqG69KYC'>| Citations: 7</span>
+  Z Lin, W Yang, **H Wang**, H Chi, L Lan, J Wang. *AAAI Conference on Artificial Intelligence, AAAI, CCF-A*, 2024. <span class='show_paper_citations' data='CbH1UJAAAAAJ:4TOpqqG69KYC'>| Citations: 7</span>
 
 - [Text-guided multi-class multi-object tracking for fine-grained maritime rescue](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:QIV2ME_5wuYC)<br>
-  S Li, Z Lin, **H Wang**, W Yang, H Liu. *Remote Sensing 16 (19), 3684*, 2024. <span class='show_paper_citations' data='CbH1UJAAAAAJ:QIV2ME_5wuYC'>| Citations: 4</span>
+  S Li, Z Lin, **H Wang**, W Yang, H Liu. *Remote Sensing, CCF-B*, 2024. <span class='show_paper_citations' data='CbH1UJAAAAAJ:QIV2ME_5wuYC'>| Citations: 4</span>
 
 - [Environment Inference for Learning Generalizable Dynamical System](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:70eg2SAEIzsC)<br>
-  S Liu, Y He, **H Wang**, W Yang, Y Wang, P Cui, Z Liu. *The Thirty-ninth Annual Conference on Neural Information Processing Systems*, 2025. <span class='show_paper_citations' data='CbH1UJAAAAAJ:70eg2SAEIzsC'>| Citations: 6</span>
+  S Liu, Y He, **H Wang**, W Yang, Y Wang, P Cui, Z Liu. *The Thirty-ninth Annual Conference on Neural Information Processing Systems, NeurIPS, CCF-A*, 2025. <span class='show_paper_citations' data='CbH1UJAAAAAJ:70eg2SAEIzsC'>| Citations: 6</span>
 
 - [An effective few-shot learning approach via location-dependent partial differential equation](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:YsMSGLbcyi4C)<br>
-  **H Wang**, Z Zhao, Y Tang. *Knowledge and Information Systems 62 (5), 1881-1901*, 2020. <span class='show_paper_citations' data='CbH1UJAAAAAJ:YsMSGLbcyi4C'>| Citations: 6</span>
+  **H Wang**, Z Zhao, Y Tang. *Knowledge and Information Systems*, 2020. <span class='show_paper_citations' data='CbH1UJAAAAAJ:YsMSGLbcyi4C'>| Citations: 6</span>
 
 <span class='anchor' id='enterprise'></span>
 
