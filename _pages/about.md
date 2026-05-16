@@ -77,7 +77,7 @@ My Google Scholar profile is available [here](https://scholar.google.com/citatio
   W Yang, **H Wang**, H Li, H Zou, R Jin, K Kuang, P Cui. *ACM SIGKDD Conference on Knowledge Discovery and Data Mining, KDD, CCF-A*, 2024, co-first & corresponding author. <span class='show_paper_citations' data='CbH1UJAAAAAJ:Wp0gIr-vW9MC'>| Citations: 9</span>
 
 - [Learning Kernelized Hypothesis for Hidden Confounder Detection](Coming)<br>
-  Y Chen, **H Wang**, Y Mao, X Lv, S Yang, K Kuang, X Liu, W Yang. *International Joint Conference on Artificial Intelligence, IJCAI, CCF-B*, 2026. <span class='show_paper_citations' data='CbH1UJAAAAAJ:Wp0gIr-vW9MC'>| Citations: 0</span>
+  Y Chen, **H Wang**, Y Mao, X Lv, S Yang, K Kuang, X Liu, W Yang. *International Joint Conference on Artificial Intelligence, IJCAI, CCF-B*, 2026, corresponding author. <span class='show_paper_citations' data='CbH1UJAAAAAJ:Wp0gIr-vW9MC'>| Citations: 0</span>
 
 - [Stable prediction with leveraging seed variable](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:WF5omc3nYNoC)<br>
   K Kuang, **H Wang**, Y Liu, R Xiong, R Wu, W Lu, Y Zhuang, F Wu, P Cui, B Li. *IEEE Transactions on Knowledge and Data Engineering, TKDE, CCF-A*, 2022. <span class='show_paper_citations' data='CbH1UJAAAAAJ:WF5omc3nYNoC'>| Citations: 16</span>
