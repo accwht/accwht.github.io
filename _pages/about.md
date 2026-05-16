@@ -65,7 +65,7 @@ My Google Scholar profile is available [here](https://scholar.google.com/citatio
   **H Wang**, H Zou, X Zhou, S Wang, W Yang, P Cui. *Proceedings of the ACM on Web Conference, WWW, CCF-A*, 2025. <span class='show_paper_citations' data='CbH1UJAAAAAJ:7PzlFSSx8tAC'>| Citations: 2</span>
 
 - [Detecting Unobserved Confounders: A Kernelized Regression Approach](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:3s1wT3WcHBgC)<br>
-  Y Chen, Y Mao, C Zheng, H Zou, S Gu, S Liu, Y Shi, W Yang, K Kuang, **H Wang**. *AAAI Conference on Artificial Intelligence, AAAI, CCF-A*, 2026, corresponding author. <span class='show_paper_citations' data='CbH1UJAAAAAJ:3s1wT3WcHBgC'>| Citations: 0</span>
+  Y Chen, Y Mao, C Zheng, H Zou, S Gu, S Liu, Y Shi, W Yang, K Kuang, **H Wang**. *AAAI Conference on Artificial Intelligence, AAAI, CCF-A*, 2026, **corresponding author**. <span class='show_paper_citations' data='CbH1UJAAAAAJ:3s1wT3WcHBgC'>| Citations: 0</span>
 
 - [Pairwise similarity regularization for adversarial domain adaptation](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:UeHWp8X0CEIC)<br>
   **H Wang**, W Yang, J Wang, R Wang, L Lan, M Geng. *Proceedings of the 28th ACM International Conference on Multimedia, ACM MM, CCF-A*, 2020. <span class='show_paper_citations' data='CbH1UJAAAAAJ:UeHWp8X0CEIC'>| Citations: 13</span>
@@ -74,10 +74,10 @@ My Google Scholar profile is available [here](https://scholar.google.com/citatio
   H Zou, **H Wang**, R Xu, B Li, J Pei, YJ Jian, P Cui. *Conference on Causal Learning and Reasoning, CleaR, Causal Top Conference*, 2023. <span class='show_paper_citations' data='CbH1UJAAAAAJ:UebtZRa9Y70C'>| Citations: 12</span>
 
 - [Your neighbor matters: Towards fair decisions under networked interference](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:Wp0gIr-vW9MC)<br>
-  W Yang, **H Wang**, H Li, H Zou, R Jin, K Kuang, P Cui. *ACM SIGKDD Conference on Knowledge Discovery and Data Mining, KDD, CCF-A*, 2024, co-first & corresponding author. <span class='show_paper_citations' data='CbH1UJAAAAAJ:Wp0gIr-vW9MC'>| Citations: 9</span>
+  W Yang, **H Wang**, H Li, H Zou, R Jin, K Kuang, P Cui. *ACM SIGKDD Conference on Knowledge Discovery and Data Mining, KDD, CCF-A*, 2024, **co-first and corresponding author**. <span class='show_paper_citations' data='CbH1UJAAAAAJ:Wp0gIr-vW9MC'>| Citations: 9</span>
 
 - [Learning Kernelized Hypothesis for Hidden Confounder Detection](Coming)<br>
-  Y Chen, **H Wang**, Y Mao, X Lv, S Yang, K Kuang, X Liu, W Yang. *International Joint Conference on Artificial Intelligence, IJCAI, CCF-B*, 2026, corresponding author. <span class='show_paper_citations' data='CbH1UJAAAAAJ:Wp0gIr-vW9MC'>| Citations: 0</span>
+  Y Chen, **H Wang**, Y Mao, X Lv, S Yang, K Kuang, X Liu, W Yang. *International Joint Conference on Artificial Intelligence, IJCAI, CCF-B*, 2026, **corresponding author**. <span class='show_paper_citations' data='CbH1UJAAAAAJ:Wp0gIr-vW9MC'>| Citations: 0</span>
 
 - [Stable prediction with leveraging seed variable](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:WF5omc3nYNoC)<br>
   K Kuang, **H Wang**, Y Liu, R Xiong, R Wu, W Lu, Y Zhuang, F Wu, P Cui, B Li. *IEEE Transactions on Knowledge and Data Engineering, TKDE, CCF-A*, 2022. <span class='show_paper_citations' data='CbH1UJAAAAAJ:WF5omc3nYNoC'>| Citations: 16</span>
@@ -86,7 +86,7 @@ My Google Scholar profile is available [here](https://scholar.google.com/citatio
   Z Wang, H Zou, H Yu, S Fan, **H Wang**, Y He, P Cui. *ACM SIGKDD Conference on Knowledge Discovery and Data Mining, KDD, CCF-A*, 2025. <span class='show_paper_citations' data='CbH1UJAAAAAJ:_Qo2XoVZTnwC'>| Citations: 1</span>
 
 - [Automated Exposure Mapping for Networked Interference](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:hC7cP41nSMkC)<br>
-  Y Mao, **H Wang**, Y Cai, M Li, J Wang, W Yang. *IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP, CCF-B*, 2025. <span class='show_paper_citations' data='CbH1UJAAAAAJ:hC7cP41nSMkC'>| Citations: 1</span>
+  Y Mao, **H Wang**, Y Cai, M Li, J Wang, W Yang. *IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP, CCF-B*, 2025, **corresponding author**. <span class='show_paper_citations' data='CbH1UJAAAAAJ:hC7cP41nSMkC'>| Citations: 1</span>
 
 - [Modality re-balance for visual question answering: A causal framework](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:_kc_bZDykSQC)<br>
   X Lv, W Huang, **H Wang**, R Jin, X Li, Z Lin, S Li, Y Feng, Y Tang. *IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP, CCF-B*, 2024. <span class='show_paper_citations' data='CbH1UJAAAAAJ:_kc_bZDykSQC'>| Citations: 2</span>
@@ -96,34 +96,34 @@ My Google Scholar profile is available [here](https://scholar.google.com/citatio
 ### Strategic Agents
 
 - [Competing for shareable arms in multi-player multi-armed bandits](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:ULOm3_A8WrAC)<br>
-  R Xu, **H Wang**, X Zhang, B Li, P Cui. *International Conference on Machine Learning, ICML*, 2023, co-first author. <span class='show_paper_citations' data='CbH1UJAAAAAJ:ULOm3_A8WrAC'>| Citations: 12</span>
+  R Xu, **H Wang**, X Zhang, B Li, P Cui. *International Conference on Machine Learning, ICML*, 2023, **co-first author**. <span class='show_paper_citations' data='CbH1UJAAAAAJ:ULOm3_A8WrAC'>| Citations: 12</span>
 
 - [Beyond Rational Illusion: Behaviorally Realistic Strategic Classification](Coming)<br>
-  X Lv, Y Mao, R Xu, C Zheng, J Yang, Y Chen, Y Chen, Y Shi, Y Zhang, H Li, W Yang, S Yang, Z Lin, **H Wang**. *International Conference on Machine Learning, ICML, CCF-A*, 2026, corresponding author. <span class='show_paper_citations'>| Citations: 0</span>
+  X Lv, Y Mao, R Xu, C Zheng, J Yang, Y Chen, Y Chen, Y Shi, Y Zhang, H Li, W Yang, S Yang, Z Lin, **H Wang**. *International Conference on Machine Learning, ICML, CCF-A*, 2026, **corresponding author**. <span class='show_paper_citations'>| Citations: 0</span>
 
 - [When Tabular Foundation Models Meet Strategic Tabular Data: A Prior Alignment Approach](Coming)<br>
-  X Lv, Y Mao, R Xu, C Zheng, H Li, Y Chen, J Yang, W Huang, Y Chen, M Geng, S Liu, K Kuang, S Yang, W Yang, Z Lin, **H Wang**. *International Conference on Machine Learning, ICML, CCF-A*, 2026, corresponding author. <span class='show_paper_citations'>| Citations: 0</span>
+  X Lv, Y Mao, R Xu, C Zheng, H Li, Y Chen, J Yang, W Huang, Y Chen, M Geng, S Liu, K Kuang, S Yang, W Yang, Z Lin, **H Wang**. *International Conference on Machine Learning, ICML, CCF-A*, 2026, **corresponding author**. <span class='show_paper_citations'>| Citations: 0</span>
 
 - [Domain specified optimization for deployment authorization](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:Zph67rFs4hoC)<br>
   **H Wang**, H Chi, W Yang, Z Lin, M Geng, L Lan, J Zhang, D Tao. *Proceedings of the IEEE/CVF International Conference on Computer Vision, ICCV,CCF-A*, 2023. <span class='show_paper_citations' data='CbH1UJAAAAAJ:Zph67rFs4hoC'>| Citations: 10</span>
 
 - [Failure Localization in Multi-Agent Code Generation via Knowledge-Guided and Transferable Reasoning](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:HoB7MX3m0LUC)<br>
-  M Geng, S Gu, Z Liu, C Xu, Z Qu, **H Wang**. *AAAI Conference on Artificial Intelligence, AAAI, CCF-A*, 2026, corresponding author. <span class='show_paper_citations' data='CbH1UJAAAAAJ:HoB7MX3m0LUC'>| Citations: 0</span>
+  M Geng, S Gu, Z Liu, C Xu, Z Qu, **H Wang**. *AAAI Conference on Artificial Intelligence, AAAI, CCF-A*, 2026, **corresponding author**. <span class='show_paper_citations' data='CbH1UJAAAAAJ:HoB7MX3m0LUC'>| Citations: 0</span>
 
 - [Beyond Independent Manipulation: Individual Fairness-aware Strategic Classification with Peer Imitation](Coming)<br>
-  X Lv, Y Mao, R Xu, J Yang, C Zheng, Y Chen, W Huang, S Yang, W Yang, P Cui, X Liu, **H Wang**. *ACM SIGKDD Conference on Knowledge Discovery and Data Mining, KDD, CCF-A*, 2026, corresponding author. <span class='show_paper_citations' data='CbH1UJAAAAAJ:HoB7MX3m0LUC'>| Citations: 0</span>
+  X Lv, Y Mao, R Xu, J Yang, C Zheng, Y Chen, W Huang, S Yang, W Yang, P Cui, X Liu, **H Wang**. *ACM SIGKDD Conference on Knowledge Discovery and Data Mining, KDD, CCF-A*, 2026, **corresponding author**. <span class='show_paper_citations' data='CbH1UJAAAAAJ:HoB7MX3m0LUC'>| Citations: 0</span>
 
 - [Advanced strategic improvement with decision interactions](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:maZDTaKrznsC)<br>
-  W Yang, X Lv, Y Mao, L Xu, R Jin, H Chen, J Ren, J Yang, Y Chen, **H Wang**. *Joint European Conference on Machine Learning and Knowledge Discovery in Databases, PKDD-ECML, CCF-B*, 2025, corresponding author. <span class='show_paper_citations' data='CbH1UJAAAAAJ:maZDTaKrznsC'>| Citations: 2</span>
+  W Yang, X Lv, Y Mao, L Xu, R Jin, H Chen, J Ren, J Yang, Y Chen, **H Wang**. *Joint European Conference on Machine Learning and Knowledge Discovery in Databases, PKDD-ECML, CCF-B*, 2025, **corresponding author**. <span class='show_paper_citations' data='CbH1UJAAAAAJ:maZDTaKrznsC'>| Citations: 2</span>
 
 - [Partial Fairness Awareness: Belief-Guided Strategic Mechanism for Strategic Agents](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:SeFeTyx0c_EC)<br>
-  X Lv, C Zheng, Y Mao, R Xu, H Zou, S Gu, L Xu, H Chen, Y Chen, W Yang, **H Wang**. *AAAI Conference on Artificial Intelligence, AAAI, CCF-A*, 2026, corresponding author. <span class='show_paper_citations' data='CbH1UJAAAAAJ:SeFeTyx0c_EC'>| Citations: 0</span>
+  X Lv, C Zheng, Y Mao, R Xu, H Zou, S Gu, L Xu, H Chen, Y Chen, W Yang, **H Wang**. *AAAI Conference on Artificial Intelligence, AAAI, CCF-A*, 2026, **corresponding author**. <span class='show_paper_citations' data='CbH1UJAAAAAJ:SeFeTyx0c_EC'>| Citations: 0</span>
 
 - [Breaking the Gradient Barrier: Unveiling Large Language Models for Strategic Classification](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:2P1L_qKh6hAC)<br>
-  X Lv, Y Mao, H Li, K Liang, J Yang, W Huang, H Chi, H Chen, L Lan, Y Chen, W Yang, **H Wang**. *The Thirty-ninth Annual Conference on Neural Information Processing Systems, NeurIPS, CCF-A*, 2025, corresponding author. <span class='show_paper_citations' data='CbH1UJAAAAAJ:2P1L_qKh6hAC'>| Citations: 1</span>
+  X Lv, Y Mao, H Li, K Liang, J Yang, W Huang, H Chi, H Chen, L Lan, Y Chen, W Yang, **H Wang**. *The Thirty-ninth Annual Conference on Neural Information Processing Systems, NeurIPS, CCF-A*, 2025, **corresponding author**. <span class='show_paper_citations' data='CbH1UJAAAAAJ:2P1L_qKh6hAC'>| Citations: 1</span>
 
 - [Mitigating Collaboration Degeneration in Multi-Agent Code Generation via a Controllable Competitive Collaboration Approach](Coming)<br>
-  S Gu, M Geng, Y Dong, Y Mao, Z Qu, H Zou, R Jin, Z Liu, C Xu, **H Wang**. *International Joint Conference on Artificial Intelligence, IJCAI, CCF-B*, 2026, corresponding author. <span class='show_paper_citations' data='CbH1UJAAAAAJ:Wp0gIr-vW9MC'>| Citations: 0</span>
+  S Gu, M Geng, Y Dong, Y Mao, Z Qu, H Zou, R Jin, Z Liu, C Xu, **H Wang**. *International Joint Conference on Artificial Intelligence, IJCAI, CCF-B*, 2026, **corresponding author**. <span class='show_paper_citations' data='CbH1UJAAAAAJ:Wp0gIr-vW9MC'>| Citations: 0</span>
   
 - [Ppa-game: Characterizing and learning competitive dynamics among online content creators](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:RHpTSmoSYBkC)<br>
   R Xu, **H Wang**, X Zhang, B Li, P Cui. *ACM SIGKDD Conference on Knowledge Discovery and Data Mining, KDD, CCF-A*, 2025. <span class='show_paper_citations' data='CbH1UJAAAAAJ:RHpTSmoSYBkC'>| Citations: 5</span>
@@ -133,14 +133,14 @@ My Google Scholar profile is available [here](https://scholar.google.com/citatio
 ### Multi-modal LLMs
 
 - [Beyond Fixed Biases: Decoding the Role of Reasoning Uncertainty in MLLM Modality Conflicts](Coming)<br>
-  Z Zhang, T Wang, X Gong, Y Shi, **H Wang**, D Wang, L Hu. *International Conference on Machine Learning, ICML, CCF-A*, 2026, corresponding author. <span class='show_paper_citations'>| Citations: 0</span>
+  Z Zhang, T Wang, X Gong, Y Shi, **H Wang**, D Wang, L Hu. *International Conference on Machine Learning, ICML, CCF-A*, 2026, **corresponding author**. <span class='show_paper_citations'>| Citations: 0</span>
 
 
 - [Mme-videoocr: Evaluating ocr-based capabilities of multimodal llms in video scenarios](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:JV2RwH3_ST0C)<br>
-  Y Shi, **H Wang**, W Xie, H Zhang, L Zhao, YF Zhang, X Li, C Fu, Z Wen, et. al. *The Thirty-ninth Annual Conference on Neural Information Processing Systems, NeurIPS, CCF-A*, 2025, corresponding author. <span class='show_paper_citations' data='CbH1UJAAAAAJ:JV2RwH3_ST0C'>| Citations: 17</span>
+  Y Shi, **H Wang**, W Xie, H Zhang, L Zhao, YF Zhang, X Li, C Fu, Z Wen, et. al. *The Thirty-ninth Annual Conference on Neural Information Processing Systems, NeurIPS, CCF-A*, 2025, **corresponding author**. <span class='show_paper_citations' data='CbH1UJAAAAAJ:JV2RwH3_ST0C'>| Citations: 17</span>
 
 - [Realunify: Do unified models truly benefit from unification? a comprehensive benchmark](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:YFjsv_pBGBYC)<br>
-  Y Shi, Y Dong, Y Ding, Y Wang, X Zhu, S Zhou, W Liu, H Tian, R Wang, et.al. *The Thirty-ninth Annual Conference on Neural Information Processing Systems, NeurIPS, CCF-A*, 2025, corresponding author. <span class='show_paper_citations' data='CbH1UJAAAAAJ:YFjsv_pBGBYC'>| Citations: 16</span>
+  Y Shi, Y Dong, Y Ding, Y Wang, X Zhu, S Zhou, W Liu, H Tian, R Wang, et.al. *The Thirty-ninth Annual Conference on Neural Information Processing Systems, NeurIPS, CCF-A*, 2025, **corresponding author**. <span class='show_paper_citations' data='CbH1UJAAAAAJ:YFjsv_pBGBYC'>| Citations: 16</span>
 
 - [Large language models are few-shot summarizers: Multi-intent comment generation via in-context learning](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:5nxA0vEk-isC)<br>
   M Geng, S Wang, D Dong, **H Wang**, G Li, Z Jin, X Mao, X Liao. *Proceedings of the 46th IEEE/ACM International Conference on Software Engineering, ICSE, CCF-A*, 2024. <span class='show_paper_citations' data='CbH1UJAAAAAJ:5nxA0vEk-isC'>| Citations: 258</span>
@@ -155,17 +155,14 @@ My Google Scholar profile is available [here](https://scholar.google.com/citatio
 - [Basereward: A strong baseline for multimodal reward model](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:pqnbT2bcN3wC)<br>
   YF Zhang, H Yang, H Zhang, Y Shi, Z Chen, H Tian, C Fu, **H Wang**, K Wu, B Cui, X Wang, J Pan, Z Zhang, L Wang. *The Fourteenth International Conference on Learning Representations, ICLR, CCF-A*, 2026. <span class='show_paper_citations' data='CbH1UJAAAAAJ:pqnbT2bcN3wC'>| Citations: 8</span>
 
-
 - [Dynamic data selection with normalized gradient-based influence approximation for targeted fine-tuning of llms](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:TQgYirikUcIC)<br>
   Z Wang, Q Zhu, F Mi, Y Wang, **H Wang**, L Shang. *Knowledge-Based Systems*, 2025. <span class='show_paper_citations' data='CbH1UJAAAAAJ:TQgYirikUcIC'>| Citations: 3</span>
 
 - [Mitigating Sensitive Information Leakage in LLMs4Code through Machine Unlearning](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:IWHjjKOFINEC)<br>
   S Gu, Z Qu, R Geng, M Geng, S Wang, C Xu, **H Wang**, Z Lin, D Dong. *Neural Networks, CCF-B*, 2026. <span class='show_paper_citations' data='CbH1UJAAAAAJ:IWHjjKOFINEC'>| Citations: 4</span>
 
-
 - [Context-Driven Index Trimming: A Data Quality Perspective to Enhancing Precision of RALMs](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:rO6llkc54NcC)<br>
   K Ma, R Jin, W Haotian, W Xi, H Chen, Y Tang, Q Wang. *Conference on Empirical Methods in Natural Language Processing, EMNLP, CCF-B*, 2024. <span class='show_paper_citations' data='CbH1UJAAAAAJ:rO6llkc54NcC'>| Citations: 2</span>
-
 
 
 ## Other Publications
