@@ -65,7 +65,7 @@ My Google Scholar profile is available [here](https://scholar.google.com/citatio
   **H Wang**, H Zou, X Zhou, S Wang, W Yang, P Cui. *Proceedings of the ACM on Web Conference, WWW, CCF-A*, 2025. <span class='show_paper_citations' data='CbH1UJAAAAAJ:7PzlFSSx8tAC'>| Citations: 2</span>
 
 - [Detecting Unobserved Confounders: A Kernelized Regression Approach](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:3s1wT3WcHBgC)<br>
-  Y Chen, Y Mao, C Zheng, H Zou, S Gu, S Liu, Y Shi, W Yang, K Kuang, **H Wang**. *AAAI Conference on Artificial Intelligence, AAAI, CCF-A*, 2026. <span class='show_paper_citations' data='CbH1UJAAAAAJ:3s1wT3WcHBgC'>| Citations: 0</span>
+  Y Chen, Y Mao, C Zheng, H Zou, S Gu, S Liu, Y Shi, W Yang, K Kuang, **H Wang**. *AAAI Conference on Artificial Intelligence, AAAI, CCF-A*, 2026, corresponding author. <span class='show_paper_citations' data='CbH1UJAAAAAJ:3s1wT3WcHBgC'>| Citations: 0</span>
 
 - [Pairwise similarity regularization for adversarial domain adaptation](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:UeHWp8X0CEIC)<br>
   **H Wang**, W Yang, J Wang, R Wang, L Lan, M Geng. *Proceedings of the 28th ACM International Conference on Multimedia, ACM MM, CCF-A*, 2020. <span class='show_paper_citations' data='CbH1UJAAAAAJ:UeHWp8X0CEIC'>| Citations: 13</span>
@@ -74,7 +74,7 @@ My Google Scholar profile is available [here](https://scholar.google.com/citatio
   H Zou, **H Wang**, R Xu, B Li, J Pei, YJ Jian, P Cui. *Conference on Causal Learning and Reasoning, CleaR, Causal Top Conference*, 2023. <span class='show_paper_citations' data='CbH1UJAAAAAJ:UebtZRa9Y70C'>| Citations: 12</span>
 
 - [Your neighbor matters: Towards fair decisions under networked interference](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:Wp0gIr-vW9MC)<br>
-  W Yang, **H Wang**, H Li, H Zou, R Jin, K Kuang, P Cui. *ACM SIGKDD Conference on Knowledge Discovery and Data Mining, KDD, CCF-A*, 2024. <span class='show_paper_citations' data='CbH1UJAAAAAJ:Wp0gIr-vW9MC'>| Citations: 9</span>
+  W Yang, **H Wang**, H Li, H Zou, R Jin, K Kuang, P Cui. *ACM SIGKDD Conference on Knowledge Discovery and Data Mining, KDD, CCF-A*, 2024, co-first & corresponding author. <span class='show_paper_citations' data='CbH1UJAAAAAJ:Wp0gIr-vW9MC'>| Citations: 9</span>
 
 - [Learning Kernelized Hypothesis for Hidden Confounder Detection](Coming)<br>
   Y Chen, **H Wang**, Y Mao, X Lv, S Yang, K Kuang, X Liu, W Yang. *International Joint Conference on Artificial Intelligence, IJCAI, CCF-B*, 2026. <span class='show_paper_citations' data='CbH1UJAAAAAJ:Wp0gIr-vW9MC'>| Citations: 0</span>
@@ -123,7 +123,7 @@ My Google Scholar profile is available [here](https://scholar.google.com/citatio
   X Lv, Y Mao, H Li, K Liang, J Yang, W Huang, H Chi, H Chen, L Lan, Y Chen, W Yang, **H Wang**. *The Thirty-ninth Annual Conference on Neural Information Processing Systems, NeurIPS, CCF-A*, 2025, corresponding author. <span class='show_paper_citations' data='CbH1UJAAAAAJ:2P1L_qKh6hAC'>| Citations: 1</span>
 
 - [Mitigating Collaboration Degeneration in Multi-Agent Code Generation via a Controllable Competitive Collaboration Approach](Coming)<br>
-  S Gu, M Geng, Y Dong, Y Mao, Z Qu, H Zou, R Jin, Z Liu, C Xu, **H Wang**. *International Joint Conference on Artificial Intelligence, IJCAI, CCF-B*, 2026. <span class='show_paper_citations' data='CbH1UJAAAAAJ:Wp0gIr-vW9MC'>| Citations: 0</span>
+  S Gu, M Geng, Y Dong, Y Mao, Z Qu, H Zou, R Jin, Z Liu, C Xu, **H Wang**. *International Joint Conference on Artificial Intelligence, IJCAI, CCF-B*, 2026, corresponding author. <span class='show_paper_citations' data='CbH1UJAAAAAJ:Wp0gIr-vW9MC'>| Citations: 0</span>
   
 - [Ppa-game: Characterizing and learning competitive dynamics among online content creators](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:RHpTSmoSYBkC)<br>
   R Xu, **H Wang**, X Zhang, B Li, P Cui. *ACM SIGKDD Conference on Knowledge Discovery and Data Mining, KDD, CCF-A*, 2025. <span class='show_paper_citations' data='CbH1UJAAAAAJ:RHpTSmoSYBkC'>| Citations: 5</span>
