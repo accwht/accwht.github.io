@@ -76,6 +76,9 @@ My Google Scholar profile is available [here](https://scholar.google.com/citatio
 - [Your neighbor matters: Towards fair decisions under networked interference](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:Wp0gIr-vW9MC)<br>
   W Yang, **H Wang**, H Li, H Zou, R Jin, K Kuang, P Cui. *ACM SIGKDD Conference on Knowledge Discovery and Data Mining, KDD, CCF-A*, 2024. <span class='show_paper_citations' data='CbH1UJAAAAAJ:Wp0gIr-vW9MC'>| Citations: 9</span>
 
+- [Learning Kernelized Hypothesis for Hidden Confounder Detection](Coming)<br>
+  Y Chen, **H Wang**, Y Mao, X Lv, S Yang, K Kuang, X Liu, W Yang. *International Joint Conference on Artificial Intelligence, IJCAI, CCF-B*, 2026. <span class='show_paper_citations' data='CbH1UJAAAAAJ:Wp0gIr-vW9MC'>| Citations: 0</span>
+
 - [Stable prediction with leveraging seed variable](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:WF5omc3nYNoC)<br>
   K Kuang, **H Wang**, Y Liu, R Xiong, R Wu, W Lu, Y Zhuang, F Wu, P Cui, B Li. *IEEE Transactions on Knowledge and Data Engineering, TKDE, CCF-A*, 2022. <span class='show_paper_citations' data='CbH1UJAAAAAJ:WF5omc3nYNoC'>| Citations: 16</span>
 
@@ -107,6 +110,9 @@ My Google Scholar profile is available [here](https://scholar.google.com/citatio
 - [Failure Localization in Multi-Agent Code Generation via Knowledge-Guided and Transferable Reasoning](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:HoB7MX3m0LUC)<br>
   M Geng, S Gu, Z Liu, C Xu, Z Qu, **H Wang**. *AAAI Conference on Artificial Intelligence, AAAI, CCF-A*, 2026, corresponding author. <span class='show_paper_citations' data='CbH1UJAAAAAJ:HoB7MX3m0LUC'>| Citations: 0</span>
 
+- [Beyond Independent Manipulation: Individual Fairness-aware Strategic Classification with Peer Imitation](Coming)<br>
+  X Lv, Y Mao, R Xu, J Yang, C Zheng, Y Chen, W Huang, S Yang, W Yang, P Cui, X Liu, **H Wang**. *ACM SIGKDD Conference on Knowledge Discovery and Data Mining, KDD, CCF-A*, 2026, corresponding author. <span class='show_paper_citations' data='CbH1UJAAAAAJ:HoB7MX3m0LUC'>| Citations: 0</span>
+
 - [Advanced strategic improvement with decision interactions](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:maZDTaKrznsC)<br>
   W Yang, X Lv, Y Mao, L Xu, R Jin, H Chen, J Ren, J Yang, Y Chen, **H Wang**. *Joint European Conference on Machine Learning and Knowledge Discovery in Databases, PKDD-ECML, CCF-B*, 2025, corresponding author. <span class='show_paper_citations' data='CbH1UJAAAAAJ:maZDTaKrznsC'>| Citations: 2</span>
 
@@ -116,6 +122,9 @@ My Google Scholar profile is available [here](https://scholar.google.com/citatio
 - [Breaking the Gradient Barrier: Unveiling Large Language Models for Strategic Classification](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:2P1L_qKh6hAC)<br>
   X Lv, Y Mao, H Li, K Liang, J Yang, W Huang, H Chi, H Chen, L Lan, Y Chen, W Yang, **H Wang**. *The Thirty-ninth Annual Conference on Neural Information Processing Systems, NeurIPS, CCF-A*, 2025, corresponding author. <span class='show_paper_citations' data='CbH1UJAAAAAJ:2P1L_qKh6hAC'>| Citations: 1</span>
 
+- [Mitigating Collaboration Degeneration in Multi-Agent Code Generation via a Controllable Competitive Collaboration Approach](Coming)<br>
+  S Gu, M Geng, Y Dong, Y Mao, Z Qu, H Zou, R Jin, Z Liu, C Xu, **H Wang**. *International Joint Conference on Artificial Intelligence, IJCAI, CCF-B*, 2026. <span class='show_paper_citations' data='CbH1UJAAAAAJ:Wp0gIr-vW9MC'>| Citations: 0</span>
+  
 - [Ppa-game: Characterizing and learning competitive dynamics among online content creators](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=CbH1UJAAAAAJ&sortby=pubdate&citation_for_view=CbH1UJAAAAAJ:RHpTSmoSYBkC)<br>
   R Xu, **H Wang**, X Zhang, B Li, P Cui. *ACM SIGKDD Conference on Knowledge Discovery and Data Mining, KDD, CCF-A*, 2025. <span class='show_paper_citations' data='CbH1UJAAAAAJ:RHpTSmoSYBkC'>| Citations: 5</span>
 
