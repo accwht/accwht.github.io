@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me
 
-I am **Haotian Wang** from the **National University of Defense Technology**. My research interests include **causal inference** and **strategic learning**, with recent work spanning treatment effect estimation, counterfactual prediction, algorithmic recourse, strategic classification, and robust machine learning.
+I am **Haotian Wang** from the **National University of Defense Technology**. I received my B.S., M.S., and Ph.D. degrees in **Computer Science and Technology** from the National University of Defense Technology. During my doctoral studies, I visited **Tsinghua University** and worked with Prof. **Peng Cui** on foundational theories and methods for causal inference. Besides, I also collaborate with Prof. **Zhouchen Lin**'s team at **Peking University**, Prof. **Fei Wu**'s team at **Zhejiang University**, and Prof. **Xinwang Liu**'s team at the **National University of Defense Technology**. My research interests include **causal inference** and **strategic learning**, with recent work spanning treatment effect estimation, counterfactual prediction, algorithmic recourse, strategic classification, and robust machine learning.
 
 My Google Scholar profile is available [here](https://scholar.google.com/citations?user=CbH1UJAAAAAJ&hl=en). The profile currently lists 59 publications and <a href='https://scholar.google.com/citations?user=CbH1UJAAAAAJ&hl=en'>Google Scholar citations <strong><span id='total_cit'>765</span></strong></a> <a href='https://scholar.google.com/citations?user=CbH1UJAAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
