@@ -40,6 +40,9 @@ My Google Scholar profile is available [here](https://scholar.google.com/citatio
 
 ### Causal Inference
 
+- [扩散模型引导的根因分析](10.13328/j.cnki.jos.007473)<br>
+  王浩天，周学广，王尚文，靳若春，黄万荣，杨文婧，王戟. *软件学报, CCF 中文A类期刊*, 2025. <span class='show_paper_citations'>| Citations: 0</span>
+  
 - [Unveiling Prior-data Fitted Networks on Causal Effect Estimation: Pre-training or Finetuning?](Coming)<br>
   **H Wang**, X Lv, H Zou, Y Xiao, S Gu, Y Shi, Y Mao, Y Zhang, M Geng, S Yang, H Li, W Yang, P Cui, Z Lin. *International Conference on Machine Learning, ICML, CCF-A*, 2026. <span class='show_paper_citations'>| Citations: 0</span>
 
